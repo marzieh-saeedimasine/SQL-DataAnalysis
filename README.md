@@ -5,10 +5,10 @@ This repository provides End to End projects for data learning and analysis usin
 
 ## Overview of layoff data cleaning project:
 -- Download Dataset:https://www.kaggle.com/datasets/swaptr/layoffs-2022  
--- Check for Duplicates: Identify and remove any duplicate records.
--- Standardize Data and Fix Errors: Ensure data consistency and correct any errors.
--- Handle Null Values: Identify null values and determine the best approach to address them.
--- Remove Columns with Null Values: Eliminate columns that contain only null values. 
+-- Check for Duplicates: Identify and remove any duplicate records.  
+-- Standardize Data and Fix Errors: Ensure data consistency and correct any errors.  
+-- Handle Null Values: Identify null values and determine the best approach to address them.  
+-- Remove Columns with Null Values: Eliminate columns that contain only null values.   
 
 ## Overview of retail data analysis project:  
 -- Data downloaded from kaggle: https://www.kaggle.com/datasets/ankitbansal06/retail-orders  
