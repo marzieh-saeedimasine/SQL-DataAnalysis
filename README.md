@@ -20,7 +20,7 @@ This repository provides End to End projects for data learning and analysis usin
 -- for each category which month had highest sales   
 -- which sub category had highest growth by profit in 2023 compare to 2022  
 
-## Overview of Netflix ETL (extract, transform and load data) as well as data analysis in MYSQL: 
+## Overview of Netflix ETL (extract, transform and load data) as well as data analysis:   
 -- Download data from: https://www.kaggle.com/datasets/shivamb/netflix-shows  
 -- Extract data in python and transform to MySQL  
 -- For data cleaning, remove duplicates, type conversions for date, populate missing values in some columns, make new tables for splited columns, and drop some columns    
