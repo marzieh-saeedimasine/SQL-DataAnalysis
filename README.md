@@ -13,7 +13,7 @@ This repository provides End to End projects for data learning and analysis usin
 ## Overview of retail data analysis project:  
 -- Data downloaded from kaggle: https://www.kaggle.com/datasets/ankitbansal06/retail-orders  
 -- Some cleaning and transformation has been performed in python and loaded data to mysql (df.to_sql)  
--- Analyze data in SQL to answer following questions:  
+**Data analysis part:** 
 -- find top 10 highest reveue generating products   
 -- find top 5 highest selling products in each region  
 -- find month over month growth comparison for 2022 and 2023 sales eg : jan 2022 vs jan 2023  
@@ -31,3 +31,17 @@ This repository provides End to End projects for data learning and analysis usin
 -- what is average duration of movies in each genre  
 -- find the list of directors who have created horror and comedy movies both.  
 -- display director names along with number of comedy and horror movies directed by them   
+
+## Overview of chocolate sales data analysis project:     
+-- Download sql dataset from: https://www.kaggle.com/datasets/anshika2301/data-analysis-of-chocolates       
+**Data analysis part:**  
+-- Print details of shipments (sales) where amounts are > 2,000 and boxes are <100.  
+-- How many shipments (sales) each of the sales persons had in the month of January 2022?  
+-- Which product sells more boxes? Milk Bars or Eclairs?  
+-- Which product sold more boxes in the first 7 days of February 2022? Milk Bars or Eclairs?  
+-- Which shipments had under 100 customers & under 100 boxes? Did any of them occur on Wednesday?  
+-- What are the names of salespersons who had at least one shipment (sale) in the first 7 days of January 2022?  
+-- Which salespersons did not make any shipments in the first 7 days of January 2022?  
+-- How many times we shipped more than 1,000 boxes in each month of each year?  
+-- Did we ship at least one box of ‘After Nines’ to ‘New Zealand’ on all the months?  
+-- India or Australia? Who buys more chocolate boxes on a monthly basis?  
