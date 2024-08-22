@@ -12,9 +12,9 @@ This repository provides End to End projects for data learning and analysis usin
 
 ## Overview of retail data analysis project:  
 -- Data downloaded from kaggle: https://www.kaggle.com/datasets/ankitbansal06/retail-orders  
--- Some cleaning and transformation has been performed in python and loaded data to mysql (df.to_sql)  
-**Data analysis part:** 
--- find top 10 highest reveue generating products   
+-- Some cleaning and transformation has been performed in python and loaded data to mysql (df.to_sql)   
+**Data analysis part:**   
+-- find top 10 highest reveue generating products     
 -- find top 5 highest selling products in each region  
 -- find month over month growth comparison for 2022 and 2023 sales eg : jan 2022 vs jan 2023  
 -- for each category which month had highest sales   
