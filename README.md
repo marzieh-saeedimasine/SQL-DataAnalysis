@@ -44,4 +44,12 @@ This repository provides End to End projects for data learning and analysis usin
 -- Which salespersons did not make any shipments in the first 7 days of January 2022?  
 -- How many times we shipped more than 1,000 boxes in each month of each year?  
 -- Did we ship at least one box of ‘After Nines’ to ‘New Zealand’ on all the months?  
--- India or Australia? Who buys more chocolate boxes on a monthly basis?  
+-- India or Australia? Who buys more chocolate boxes on a monthly basis?
+
+## Overview of olympic history data analysis project:    
+-- Data set was taken from kaggle: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results    
+-- SQL queries have been implemented to break down information of different olympic games. Take a look on Athlete-Project.sql for different questions.      
+
+## Overview of Walmart sales data analysis project:    
+-- data was taken from kaggle:https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting  
+-- SQL queries have been implemented to break down information of different sale questions. Take a look on Walmart-Project.sql for different questions.          
