@@ -53,3 +53,9 @@ This repository provides End to End projects for data learning and analysis usin
 ## Overview of Walmart sales data analysis project:    
 -- data was taken from kaggle:https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting  
 -- SQL queries have been implemented to break down information of different sale questions. Take a look on Walmart-Project.sql for different questions.          
+
+## Overview of McDonald's Menu data analysis project:       
+-- Data was taken from kaggle:https://www.kaggle.com/datasets/mcdonalds/nutrition-facts    
+-- SqLite3 was used to create the database  
+-- Connect python to database MySQL and SQLite as well as access database through Magic SQL   
+-- Pandas was used to read the data from the database and analyze the data to know nutrition facts of McDonald's menu  
