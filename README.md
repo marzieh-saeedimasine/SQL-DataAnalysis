@@ -59,3 +59,8 @@ This repository provides End to End projects for data learning and analysis usin
 -- SqLite3 was used to create the database  
 -- Connect python to database MySQL and SQLite as well as access database through Magic SQL   
 -- Pandas was used to read the data from the database and analyze the data to know nutrition facts of McDonald's menu  
+
+## Overview of Chicago Crime data analysis project:       
+-- Dataset of Chicago Crime was downloaded and loaded to the google bigquery:https://www.kaggle.com/datasets/chicago/chicago-crime    
+-- Google BigQuery has been configured as SQL environment.     
+-- SQL queries have been implemented to break down information of different questions.    
